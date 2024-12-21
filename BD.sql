@@ -1,16 +1,4 @@
-{\rtf1\ansi\ansicpg1251\cocoartf2639
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red219\green222\blue224;\red0\green0\blue0;
-\red255\green255\blue255;\red219\green221\blue224;\red0\green0\blue0;\red255\green255\blue255;\red219\green221\blue224;
-}
-{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000\c0;\cssrgb\c88757\c89548\c90171;\cssrgb\c0\c0\c0;
-\cssrgb\c100000\c100000\c99971\c0;\cssrgb\c88550\c89338\c90183;\cssrgb\c0\c1\c1;\cssrgb\c100000\c100000\c99985\c0;\cssrgb\c88445\c89233\c90188;
-}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
 
-\f0\fs26 \cf0 \cb2 \expnd0\expndtw0\kerning0
 CREATE TABLE OBSLUGA\
 (num INT PRIMARY KEY NOT NULL, \
 name char (20), rang_min INT, rang_max INT)\
